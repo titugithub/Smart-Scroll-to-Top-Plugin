@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Smart Scroll to Top\n"
+"POT-Creation-Date: 2025-05-14 00:29+0600\n"
+"PO-Revision-Date: 2025-05-14 00:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: smart-scroll-to-top.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-smart-scroll-to-top-admin.php:11
+msgid "Scroll to Top Settings"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:12
+msgid "Scroll to Top"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:24
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:25
+msgid "Enable Button"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:26
+msgid "Button Output"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:27
+msgid "Automatic (Footer)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:28
+msgid "Shortcode Only"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:30
+msgid "Button Position"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:31
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:32
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:33
+msgid "Top Right"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:34
+msgid "Top Left"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:36
+msgid "Icon Style"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:37
+msgid "Arrow"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:38
+msgid "Chevron"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:39
+msgid "Circle"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:41
+msgid "Icon Type"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:42
+msgid "Font Awesome (CSS Only)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:43
+msgid "Bootstrap (CSS Only)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:44
+msgid "Dashicons"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:46
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:47
+msgid "Icon Color"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:48
+msgid "Hover Color"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:49
+msgid "Button Size"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:50
+msgid "Small"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:51
+msgid "Medium"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:52
+msgid "Large"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:54
+msgid "Border Radius (px)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:55
+msgid "Enable Shadow"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:56
+msgid "Animation Type"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:57
+msgid "Fade"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:58
+msgid "Slide"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:59
+msgid "Zoom"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:60
+msgid "Bounce"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:62
+msgid "Scroll Offset (px)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:63
+msgid "Scroll Speed (ms)"
+msgstr ""
+
+#: includes/class-smart-scroll-to-top-admin.php:117
+msgid "Settings Saved"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Smart Scroll to Top"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A customizable smart scroll to top button with multiple options and styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Titu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/titugithub"
+msgstr ""
